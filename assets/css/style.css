@@ -1,4 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+
+/* @import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300;400&display=swap');
 body {
-    font-family: 'Redressed', cursive;
+    font-family: 'Mukta', sans-serif;
+}
+
+
+/* body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+} */
+
+.footerColor {
+    background-color: #1a264e;
+}
+
+.loginfooter {
+    margin-top: 12.5em;
+}
+
+.nostyle {
+    list-style-type: none;
 }
