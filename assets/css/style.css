@@ -19,9 +19,18 @@ body {
 }
 
 .loginfooter {
-    margin-top: 12.5em;
+    margin-top: 16.5em;
+    /* margin-top: 12.5em; */
 }
 
 .nostyle {
     list-style-type: none;
+}
+
+.aboutpic {
+    max-width: 100%;
+}
+
+.achieve {
+    margin: auto;
 }
